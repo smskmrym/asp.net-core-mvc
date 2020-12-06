@@ -1,0 +1,12 @@
+C:\Users\meri\Documents\project\asp.net-core-mvc\asp.net-core-mvc-example\FuncDelegate\bin\Debug\netcoreapp3.1\FuncDelegate.exe
+C:\Users\meri\Documents\project\asp.net-core-mvc\asp.net-core-mvc-example\FuncDelegate\bin\Debug\netcoreapp3.1\FuncDelegate.deps.json
+C:\Users\meri\Documents\project\asp.net-core-mvc\asp.net-core-mvc-example\FuncDelegate\bin\Debug\netcoreapp3.1\FuncDelegate.runtimeconfig.json
+C:\Users\meri\Documents\project\asp.net-core-mvc\asp.net-core-mvc-example\FuncDelegate\bin\Debug\netcoreapp3.1\FuncDelegate.runtimeconfig.dev.json
+C:\Users\meri\Documents\project\asp.net-core-mvc\asp.net-core-mvc-example\FuncDelegate\bin\Debug\netcoreapp3.1\FuncDelegate.dll
+C:\Users\meri\Documents\project\asp.net-core-mvc\asp.net-core-mvc-example\FuncDelegate\bin\Debug\netcoreapp3.1\FuncDelegate.pdb
+C:\Users\meri\Documents\project\asp.net-core-mvc\asp.net-core-mvc-example\FuncDelegate\obj\Debug\netcoreapp3.1\FuncDelegate.AssemblyInfoInputs.cache
+C:\Users\meri\Documents\project\asp.net-core-mvc\asp.net-core-mvc-example\FuncDelegate\obj\Debug\netcoreapp3.1\FuncDelegate.AssemblyInfo.cs
+C:\Users\meri\Documents\project\asp.net-core-mvc\asp.net-core-mvc-example\FuncDelegate\obj\Debug\netcoreapp3.1\FuncDelegate.csproj.CoreCompileInputs.cache
+C:\Users\meri\Documents\project\asp.net-core-mvc\asp.net-core-mvc-example\FuncDelegate\obj\Debug\netcoreapp3.1\FuncDelegate.dll
+C:\Users\meri\Documents\project\asp.net-core-mvc\asp.net-core-mvc-example\FuncDelegate\obj\Debug\netcoreapp3.1\FuncDelegate.pdb
+C:\Users\meri\Documents\project\asp.net-core-mvc\asp.net-core-mvc-example\FuncDelegate\obj\Debug\netcoreapp3.1\FuncDelegate.genruntimeconfig.cache

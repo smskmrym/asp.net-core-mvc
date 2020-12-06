@@ -1,0 +1,12 @@
+C:\Users\meri\Documents\project\asp.net-core-mvc\asp.net-core-mvc-example\Delegeler\obj\Debug\netcoreapp3.1\Delegate.AssemblyInfoInputs.cache
+C:\Users\meri\Documents\project\asp.net-core-mvc\asp.net-core-mvc-example\Delegeler\obj\Debug\netcoreapp3.1\Delegate.AssemblyInfo.cs
+C:\Users\meri\Documents\project\asp.net-core-mvc\asp.net-core-mvc-example\Delegeler\obj\Debug\netcoreapp3.1\Delegate.csproj.CoreCompileInputs.cache
+C:\Users\meri\Documents\project\asp.net-core-mvc\asp.net-core-mvc-example\Delegeler\bin\Debug\netcoreapp3.1\Delegate.exe
+C:\Users\meri\Documents\project\asp.net-core-mvc\asp.net-core-mvc-example\Delegeler\bin\Debug\netcoreapp3.1\Delegate.deps.json
+C:\Users\meri\Documents\project\asp.net-core-mvc\asp.net-core-mvc-example\Delegeler\bin\Debug\netcoreapp3.1\Delegate.runtimeconfig.json
+C:\Users\meri\Documents\project\asp.net-core-mvc\asp.net-core-mvc-example\Delegeler\bin\Debug\netcoreapp3.1\Delegate.runtimeconfig.dev.json
+C:\Users\meri\Documents\project\asp.net-core-mvc\asp.net-core-mvc-example\Delegeler\bin\Debug\netcoreapp3.1\Delegate.dll
+C:\Users\meri\Documents\project\asp.net-core-mvc\asp.net-core-mvc-example\Delegeler\bin\Debug\netcoreapp3.1\Delegate.pdb
+C:\Users\meri\Documents\project\asp.net-core-mvc\asp.net-core-mvc-example\Delegeler\obj\Debug\netcoreapp3.1\Delegate.dll
+C:\Users\meri\Documents\project\asp.net-core-mvc\asp.net-core-mvc-example\Delegeler\obj\Debug\netcoreapp3.1\Delegate.pdb
+C:\Users\meri\Documents\project\asp.net-core-mvc\asp.net-core-mvc-example\Delegeler\obj\Debug\netcoreapp3.1\Delegate.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\meri\Documents\project\asp.net-core-mvc\asp.net-core-mvc-example\PredicateDelegate\bin\Debug\netcoreapp3.1\PredicateDelegate.exe
+C:\Users\meri\Documents\project\asp.net-core-mvc\asp.net-core-mvc-example\PredicateDelegate\bin\Debug\netcoreapp3.1\PredicateDelegate.deps.json
+C:\Users\meri\Documents\project\asp.net-core-mvc\asp.net-core-mvc-example\PredicateDelegate\bin\Debug\netcoreapp3.1\PredicateDelegate.runtimeconfig.json
+C:\Users\meri\Documents\project\asp.net-core-mvc\asp.net-core-mvc-example\PredicateDelegate\bin\Debug\netcoreapp3.1\PredicateDelegate.runtimeconfig.dev.json
+C:\Users\meri\Documents\project\asp.net-core-mvc\asp.net-core-mvc-example\PredicateDelegate\bin\Debug\netcoreapp3.1\PredicateDelegate.dll
+C:\Users\meri\Documents\project\asp.net-core-mvc\asp.net-core-mvc-example\PredicateDelegate\bin\Debug\netcoreapp3.1\PredicateDelegate.pdb
+C:\Users\meri\Documents\project\asp.net-core-mvc\asp.net-core-mvc-example\PredicateDelegate\obj\Debug\netcoreapp3.1\PredicateDelegate.AssemblyInfoInputs.cache
+C:\Users\meri\Documents\project\asp.net-core-mvc\asp.net-core-mvc-example\PredicateDelegate\obj\Debug\netcoreapp3.1\PredicateDelegate.AssemblyInfo.cs
+C:\Users\meri\Documents\project\asp.net-core-mvc\asp.net-core-mvc-example\PredicateDelegate\obj\Debug\netcoreapp3.1\PredicateDelegate.csproj.CoreCompileInputs.cache
+C:\Users\meri\Documents\project\asp.net-core-mvc\asp.net-core-mvc-example\PredicateDelegate\obj\Debug\netcoreapp3.1\PredicateDelegate.dll
+C:\Users\meri\Documents\project\asp.net-core-mvc\asp.net-core-mvc-example\PredicateDelegate\obj\Debug\netcoreapp3.1\PredicateDelegate.pdb
+C:\Users\meri\Documents\project\asp.net-core-mvc\asp.net-core-mvc-example\PredicateDelegate\obj\Debug\netcoreapp3.1\PredicateDelegate.genruntimeconfig.cache

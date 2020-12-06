@@ -1,0 +1,17 @@
+C:\Users\meri\Documents\project\asp.net-core-mvc\asp.net-core-mvc-example\behavior-of-objects\bin\Debug\netcoreapp3.1\behavior-of-objects.exe
+C:\Users\meri\Documents\project\asp.net-core-mvc\asp.net-core-mvc-example\behavior-of-objects\obj\Debug\netcoreapp3.1\behavior-of-objects.csprojAssemblyReference.cache
+C:\Users\meri\Documents\project\asp.net-core-mvc\asp.net-core-mvc-example\behavior-of-objects\obj\Debug\netcoreapp3.1\behavior-of-objects.AssemblyInfoInputs.cache
+C:\Users\meri\Documents\project\asp.net-core-mvc\asp.net-core-mvc-example\behavior-of-objects\obj\Debug\netcoreapp3.1\behavior-of-objects.AssemblyInfo.cs
+C:\Users\meri\Documents\project\asp.net-core-mvc\asp.net-core-mvc-example\behavior-of-objects\bin\Debug\netcoreapp3.1\FakeData.dll
+C:\Users\meri\Documents\project\asp.net-core-mvc\asp.net-core-mvc-example\behavior-of-objects\obj\Debug\netcoreapp3.1\behavior-of-objects.csproj.CopyComplete
+C:\Users\meri\Documents\project\asp.net-core-mvc\asp.net-core-mvc-example\behavior-of-objects\bin\Debug\netcoreapp3.1\behavior-of-objects.deps.json
+C:\Users\meri\Documents\project\asp.net-core-mvc\asp.net-core-mvc-example\behavior-of-objects\bin\Debug\netcoreapp3.1\behavior-of-objects.runtimeconfig.json
+C:\Users\meri\Documents\project\asp.net-core-mvc\asp.net-core-mvc-example\behavior-of-objects\bin\Debug\netcoreapp3.1\behavior-of-objects.runtimeconfig.dev.json
+C:\Users\meri\Documents\project\asp.net-core-mvc\asp.net-core-mvc-example\behavior-of-objects\bin\Debug\netcoreapp3.1\behavior-of-objects.dll
+C:\Users\meri\Documents\project\asp.net-core-mvc\asp.net-core-mvc-example\behavior-of-objects\bin\Debug\netcoreapp3.1\behavior-of-objects.pdb
+C:\Users\meri\Documents\project\asp.net-core-mvc\asp.net-core-mvc-example\behavior-of-objects\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\meri\Documents\project\asp.net-core-mvc\asp.net-core-mvc-example\behavior-of-objects\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\meri\Documents\project\asp.net-core-mvc\asp.net-core-mvc-example\behavior-of-objects\obj\Debug\netcoreapp3.1\behavior-of-objects.csproj.CoreCompileInputs.cache
+C:\Users\meri\Documents\project\asp.net-core-mvc\asp.net-core-mvc-example\behavior-of-objects\obj\Debug\netcoreapp3.1\behavior-of-objects.dll
+C:\Users\meri\Documents\project\asp.net-core-mvc\asp.net-core-mvc-example\behavior-of-objects\obj\Debug\netcoreapp3.1\behavior-of-objects.pdb
+C:\Users\meri\Documents\project\asp.net-core-mvc\asp.net-core-mvc-example\behavior-of-objects\obj\Debug\netcoreapp3.1\behavior-of-objects.genruntimeconfig.cache

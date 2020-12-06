@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "YYBmxgC67Jj004XUT+PXdE6CUS4cj8vdTOPUuNpZRYtAbfxMQG+b8Zj5jQJMq4iREWGovxg+zi3eowQsqfyKhw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\meri\\Documents\\project\\asp.net-core-mvc\\asp.net-core-mvc-example\\behavior-of-objects\\behavior-of-objects.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\meri\\.nuget\\packages\\documentformat.openxml\\2.11.3\\documentformat.openxml.2.11.3.nupkg.sha512",
+    "C:\\Users\\meri\\.nuget\\packages\\fakedata\\1.0.0\\fakedata.1.0.0.nupkg.sha512",
+    "C:\\Users\\meri\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'FakeData 1.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "FakeData",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
